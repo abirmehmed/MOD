@@ -1,11 +1,5 @@
 # MOD
 
-Absolutely! A well-structured syllabus is the backbone of a great quiz website. It gives your users a clear learning path and allows you to organize your database into specific, targeted quizzes.
-
-Since you are building a quiz platform, I have designed this syllabus specifically to be divided into **Levels** and **Modules**. 
-
-I've also included an **estimated target number of questions per module** to help you reach your goal of 1,000+ questions!
-
 ---
 
 # 🟢 LEVEL 0: The Foundations (Beginner)
